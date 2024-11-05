@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocekoixu.github.io/Ekl/sitemap_index.txt
+Sitemap: https://ocekoixu.github.io/Tst/sitemap_index.txt
+Sitemap: https://ocekoixu.github.io/duv/sitemap_index.txt
+Sitemap: https://ocekoixu.github.io/rBQ/sitemap_index.txt
